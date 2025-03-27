@@ -3,7 +3,6 @@ import pandas as pd
 import numpy as np
 
 # 顯示標題與作者資訊
-st.title("Wi‑Fi 7 頻段 Rx ↔ 距離 對照表 UI")
 st.write("作者：QQQ9527")
 
 # === 1. Wi‑Fi 7 頻段參數設定 ===
